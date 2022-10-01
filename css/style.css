@@ -1,0 +1,33 @@
+body{
+    background-color: chocolate;
+}
+     
+{
+    box-sizing: border 
+    margin:0;
+    padding:0;
+    display:
+}
+ .box, .boxone, .boxtwo{
+    height: 150px;
+    width: 150px;
+    display:inline-block;
+ }
+ .boxone
+ {
+    background-color:yellow;
+}
+.box{
+    background-color:pink;
+   position: static;
+ /*  top: 50px */
+   bottom: 50px;
+   left:60px;
+
+   
+}
+.boxtwo{
+    background-color: blue;
+    position: ;
+    top: 10px;
+}

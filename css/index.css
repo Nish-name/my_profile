@@ -1,0 +1,72 @@
+
+body{
+
+    background-color:white;
+}
+
+header{
+
+    height: 90px;px;
+    background-color: #CE0505;
+    display:flex;
+    flex-basis:0;
+}
+
+#header-main{
+    position: relative;
+    margin:0% auto;
+    min-width:102em;
+    display:flex;
+
+
+}
+
+#header-logo{
+    background-color:white;
+    margin:15px;
+    width :50px;
+    height:50px;
+    border-radius: 60%;
+    align-items: center;
+    display:flex;
+    margin-left:70px;
+}
+
+#logo-text{
+    margin :auto;
+    font-size: 30px;
+    font-weight: 900;
+    color:#CE0505;
+    align-items:center;
+    margin-left:10px;
+    margin-top:10px;
+   text-align:center;
+}
+
+#header-btn-container{
+    display:flex;
+    margin-left:auto;
+    align-items: center;
+}
+
+#login-btn{
+    border:0px;
+    background-color: transparent;
+    font-weight: 200;
+    font-size: 20px;
+    color:white;
+    position: relative;
+    margin-left:960px;
+}
+
+#account-btn{
+    color:white;
+    border-radius:2px;
+    height:auto;
+    padding: 10px 10px;
+    font-size: 18px;
+    background :transparent;
+    border:1px solid white;
+    margin-left
+}
+
